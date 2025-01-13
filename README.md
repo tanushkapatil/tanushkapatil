@@ -40,14 +40,5 @@
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=tanushkapatil&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 ---
+[![](https://visitcount.itsvg.in/api?id=technologyhell&icon=10&color=6)](https://visitcount.itsvg.in)
 
-<div align="center">
-    
-  ![snake gif](https://github.com/tanushkapatil/tanushkapatil/blob/output/github-snake-dark.svg)
-</div>
-
-
-<div align="center">
-  
-  [![](https://visitcount.itsvg.in/api?id=technologyhell&icon=10&color=6)](https://visitcount.itsvg.in)
-</div>
