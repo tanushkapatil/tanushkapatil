@@ -3,7 +3,7 @@
 <img src="https://media.giphy.com/media/128Ygie2wLdH5m/giphy.gif" alt="GIF" align="right">
 
 <h3>💫 About Me:</h3>
-🌱 B.Tech CSE Student @PCCoE<br>
+🌱 B.Tech CSE Student @PCCoE<br><br>💡 Always learning and exploring new technologies<br>
 
 <h3>🌐 Socials:</h3>
 <a href="https://www.linkedin.com/in/tanushkapatil/" target="_blank">
