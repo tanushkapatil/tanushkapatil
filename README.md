@@ -6,7 +6,9 @@
 🌱 B.Tech CSE Student @PCCoE<br><br>📧 Reach me via: tanushkapatil2412@gmail.com<br>
 
 <h3>🌐 Socials:</h3>
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tanushkapatil/)
+<a href="https://www.linkedin.com/in/tanushkapatil/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
 
 ## 💻 Tech Stack:
 ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white)
