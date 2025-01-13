@@ -1,6 +1,6 @@
 <h2 align="center">Hey👋, I'm Tanushka</h2>
 <h4 align="center">A passionate AR/VR enthusiast, game developer, and 3D modeler</h4><br>
-<img src="https://media.giphy.com/media/128Ygie2wLdH5m/giphy.gif" alt="GIF">
+<img src="https://media.giphy.com/media/128Ygie2wLdH5m/giphy.gif" alt="GIF" align="right">
 
 ## 💫 About Me:
 🌱 B.Tech CSE Student @PCCoE<br><br>📧 Reach me via: tanushkapatil2412@gmail.com<br>
