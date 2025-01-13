@@ -42,6 +42,6 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=tanushkapatil&icon=0&color=0)](https://visitcount.itsvg.in)
 
- ![snake gif](https://github.com/tanushkapatil/tanushkapatil/blob/output/github-snake-dark.svg)
-
-
+<div align="center">
+  <img src="https://raw.githubusercontent.com/tanushkapatil/tanushkapatil/output/github-snake-dark.svg" alt="snake gif" />
+</div>
