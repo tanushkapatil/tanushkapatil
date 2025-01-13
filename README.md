@@ -3,11 +3,14 @@
 <img src="https://media.giphy.com/media/128Ygie2wLdH5m/giphy.gif" alt="GIF" align="right">
 
 <h3>💫 About Me:</h3>
-🌱 B.Tech CSE Student @PCCoE<br><br>📧 Reach me via: tanushkapatil2412@gmail.com<br>
+🌱 B.Tech CSE Student @PCCoE<br>
 
 <h3>🌐 Socials:</h3>
 <a href="https://www.linkedin.com/in/tanushkapatil/" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
+<a href="mailto:tanushkapatil2412@gmail.com">
+  <img src="https://img.shields.io/badge/Email-%23D14836.svg?logo=gmail&logoColor=white" alt="Email" />
 </a>
 
 ## 💻 Tech Stack:
